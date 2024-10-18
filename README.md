@@ -1,1 +1,6 @@
-# Surekha-Madisetty
+- 👏Hi, I'm @Surekha-Madisetty
+- 📈 I'm interested in Data Analytics
+- 🌱 I’m currently looking for a job in this field
+- 💞️ I’m looking to collaborate on projects in data visualization
+- 📫 How to reach me Surekhasetty123@gmail.com
+- 😄 Pronouns: She/her
