@@ -1,3 +1,4 @@
+![logo](https://github.com/MadisettySurekha/Surekha-Madisetty/blob/main/Github%20banner%20profile.png)
 <h1 align="center">Hi 👋, I'm Surekha-Madisetty</h1>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
